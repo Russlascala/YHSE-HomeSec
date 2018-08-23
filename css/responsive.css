@@ -144,7 +144,7 @@ footer{padding-bottom:50px;}
     width: auto;
     left: 10px;
     bottom: 13px;
-    height: 314px;
+    height: 323px;
 
     } /* this was 
     width: auto;
@@ -333,7 +333,8 @@ footer{padding-bottom:50px;}
         font-size:16px!important;
     }
     .zipcode-content{
-        height: 328px;
+        height: 342px;
+        bottom: -16px;
     }
 }
 /* Media Query for line break, will be different on every speciality  
@@ -349,12 +350,12 @@ footer{padding-bottom:50px;}
 	.second, .third{left:25px !important; top:20px !important; width:90% !important;}
     .bxslider li{height:260px !important;}
     .zipcode-content{
-        height: 328px;
-        bottom: -65px;
+        height: 357px;
+        bottom: -96px;
     }
     
     #mid-container {
-        padding-top: 92px;
+        padding-top: 115px;
     }
 
 }
@@ -369,8 +370,8 @@ footer{padding-bottom:50px;}
         margin-top: 0px;
     } 
     .zipcode-content{
-        height: 340px;
-        bottom: -79px;
+        height: 349px;
+        bottom: -92px;
     }
     #mid-container {
         padding-top: 100px;

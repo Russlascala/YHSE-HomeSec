@@ -64,7 +64,8 @@ body {margin: 0; padding: 0; font-family: 'Open Sans', sans-serif; background:#f
 .top-txt .warning-txt{font-family: 'Roboto',sans-serif;font-style: normal; font-weight: 700; font-size:23px; color:#ed1f24; line-height:20px;}
 .top-txt .warning-txt span{font-family: 'Roboto', sans-serif;font-style: normal; font-weight: 900; font-size:14px; color:#333333; text-transform:uppercase; display:block; line-height:15px; padding-top:4px;}
 #geo_city{font-size:24px; color:#1087dd; text-transform:capitalize;}
-
+/* 
+top bar styles  */
     .styled-txt{
         font-weight: bold;
         color: black;
@@ -82,6 +83,7 @@ body {margin: 0; padding: 0; font-family: 'Open Sans', sans-serif; background:#f
     .top-break{
         display:none;
     }
+
 
 .three-step-container .green-bg{background:#1087dd; padding:15px 0 21px 0; text-align:center;}
 .three-step-container .green-bg h1{font-size:44px; color:#fff;font-style: normal; font-weight: 400; line-height:1.2;}
@@ -133,6 +135,17 @@ body {margin: 0; padding: 0; font-family: 'Open Sans', sans-serif; background:#f
     /* height:45px; */
     padding: 10px;
 }
+
+/* Form styles  */
+#secureForm{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 31px;
+    width: 127px;
+    /* margin-top: 4px; */
+}
+
 
 .zipcode-content .zipcode-form .col-2{float:left; margin-left:0px; position: relative;}
 #select_yes_no{
