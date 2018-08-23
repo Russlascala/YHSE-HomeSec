@@ -65,10 +65,10 @@ body {margin: 0; padding: 0; font-family: 'Open Sans', sans-serif; background:#f
 .top-txt .warning-txt span{font-family: 'Roboto', sans-serif;font-style: normal; font-weight: 900; font-size:14px; color:#333333; text-transform:uppercase; display:block; line-height:15px; padding-top:4px;}
 #geo_city{font-size:24px; color:#1087dd; text-transform:capitalize;}
 /* 
-top bar styles  */
+top bar styles  #DE564D*/
     .styled-txt{
         font-weight: bold;
-        color: #DE564D;
+        color: #F9F871;
         /* font-size: 46px; */
         text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
         background-image: url(../images/underline.png);
