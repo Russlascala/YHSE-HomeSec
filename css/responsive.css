@@ -250,7 +250,8 @@ footer{padding-bottom:50px;}
 
     .styled-txt{
         background-image: url(../images/underline-mobile.png)!important;
-        background-position: -6px 21px;
+        background-position: 2px 22px;
+        font-size: 24px;
     } 
 }
 @media (max-width:550px) {
